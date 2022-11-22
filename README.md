@@ -52,7 +52,7 @@ Lista alla HTML taggar ni kan komma på i bokstavsordning och med beskrivning va
 * form>	Definierar ett formulär;
 * frame>	Definierar ett frame
 * frameset>	Definierar ett set of frames
-* h1> to <h6>	Definierar rubrik 1 till 6
+* h1> to h6>	Definierar rubrik 1 till 6
 * head>	Definierar information om dokumentet
 * hr>	Definierar en horizontal rule
 * html>	Definierar ett html-dokument
