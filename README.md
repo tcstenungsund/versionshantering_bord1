@@ -14,11 +14,11 @@ Lista alla HTML taggar ni kan komma på i bokstavsordning och med beskrivning va
 - P, paragraph med text
 
 
-*!--...--	kommentar
-*!DOCTYPE 	dokumenttyp
-*a	Definierar en anchor
-*abbr	Definierar en abbreviation
-*acronym>	Definierar en acronym
+* !--...--	kommentar
+* !DOCTYPE 	dokumenttyp
+* a	Definierar en anchor
+* abbr	Definierar en abbreviation
+* acronym>	Definierar en acronym
 *adress>	Definierar ett adresselement
 *applet>	(Deprecated) Definierar en applet
 *area>	Definierar en area inuti en image map
