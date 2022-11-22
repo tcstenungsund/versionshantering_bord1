@@ -13,10 +13,10 @@ Lista alla HTML taggar ni kan komma på i bokstavsordning och med beskrivning va
 - A, länk till annat dokument eller inom samma dokument
 - P, paragraph med text
 
-<!--...-->	kommentar
-<!DOCTYPE> 	dokumenttyp
-<a>	Definierar en anchor
-<abbr>	Definierar en abbreviation
+!--...--	kommentar
+!DOCTYPE 	dokumenttyp
+a	Definierar en anchor
+abbr	Definierar en abbreviation
 <acronym>	Definierar en acronym
 <adress>	Definierar ett adresselement
 <applet>	(Deprecated) Definierar en applet
