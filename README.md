@@ -105,6 +105,8 @@ Lista alla HTML taggar ni kan komma på i bokstavsordning och med beskrivning va
 <var>	Definierar en variable
 <xmp>	(Deprecated) Definierar preformatted text
 
+
+
 ---
 
 
