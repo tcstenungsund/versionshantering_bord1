@@ -110,9 +110,9 @@ Lista alla HTML taggar ni kan komma på i bokstavsordning och med beskrivning va
 
 
 Gruppens betyg på slogan. Ge en 1:a till er själva och dela ut 2-6 till de andra grupperna.
-- Grupp 1, X poäng
-- Grupp 2, 2 poäng
-- Grupp 3, 3 poäng
+- Grupp 1, 1 poäng
+- Grupp 2, 6 poäng
+- Grupp 3, 5 poäng
 - Grupp 4, 4 poäng
-- Grupp 5, 5 poäng
-- Grupp 6, 6 poäng
+- Grupp 5, 3 poäng
+- Grupp 6, 2 poäng
